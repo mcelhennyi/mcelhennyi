@@ -1,5 +1,3 @@
-## Project Description
+# Welcome!
 
-* [live example](https://learning-zone.github.io/website-templates/startbootstrap-clean-blog-1.0.2)
-
-![alt text](https://github.com/learning-zone/website-templates/blob/master/assets/startbootstrap-clean-blog-1.0.2.png "startbootstrap-clean-blog-1.0.2")
+Hi, I am Ian McElhenny. I am a software/hardware engineer located in the Great State of Texas. I like to push the limits of my comfort zone with learning new skills and doing new projects. Across my [youtube](https://www.youtube.com/channel/UCOd3F3PCg3re78-pYsdSYXA) and github you can find all sorts of projects. 
